@@ -16,3 +16,5 @@ This project uses a linear regression model to predict house prices in Californi
 ```bash
 python housing_predictor.py
 
+```python
+plt.savefig('model-performance.png')
